@@ -34,4 +34,4 @@
 
 ## Preview.
 
-<p align="center"><img src="./src/assets/readme/projeto.gif" title="Jogo de Naves - DIO"></p>
+<p align="center"><img src="./src/assets/projeto.gif" title="Jogo de Naves - DIO"></p>
